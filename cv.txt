@@ -1,0 +1,33 @@
+        Mgr. Jaroslav Vazny, DiS.
+
+* Education and qualification
+
+** 2011 -- Present: Doctoral study program:
+   Theoretical Physics and Astrophysics, Faculty of~Science, Masaryk
+   University
+
+** June 2011: Master degree obtained in program Theoretical Physics and Astrophysics
+   (Spec.: Astrophysics), Faculty of Science, Masaryk University
+
+** November 2008: Bachelor degree obtained in program: Applied Physics (Spec.:
+    Astrophysics), Faculty of Science, Masaryk University
+
+** 2000: Certified Specialist (DiS) degree obtained in program: Computer Science,
+    SPŠE Pardubice
+
+* Work experience, internships, solved projects
+   
+** May 2011: Joint Workshop and Summer School: Astrostatistics and
+   Data Mining in Large Astronomical Databases.  La Palma, Canary
+   Islands, Spain
+
+** June -- September 2010: CERN Summer Student: Working on next the
+   Compact Linear Collider project
+
+** January 2010: EuroVO-AIDA:Astronomical Infrastructure for Data Access
+   International School on technologies of Virtual Observatory
+
+** 2000 -- 2006: Senior Developer, Oracle DBA: Infineon
+  Technologies Trutnov, s. r. o. Working in Germany, USA and
+  Malaysia. Passed many courses on PL/SQL, Oracle, C\#, REFA, etc.
+   

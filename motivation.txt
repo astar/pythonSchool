@@ -1,0 +1,53 @@
+I used to be a computer scientist and I was working as senior
+developer, and database administrator at Infineon Technologies for six
+years. Then I decide to completly change the field and become an
+astrophysicist. I thought I would use computers just as tool and
+programs like IDL, Matlab, Mathematica allow me to focus on my
+scientific goals. During my bachelor/diploma thesis I discovered
+wonderful world of Data Mining and I have realized (not without pain)
+what difference software engineering skills could have. Particularly
+those normally ignored by scientist such are revision control, UN*X
+skills, TDD approach, etc. Linux and Python is the reason I'd like
+computer science again. It seems to me that python is not just another
+language as it is clear from it's massive adaptation between
+scientist. It's not only practical but also elegant beautiful. Very
+important aspect is that is free but not
+
+
+Your schools match perfectly topics I'm extremely interested. The best
+advantage compared to on-line materials I see the opportunity to
+discuss experiences and problems with other students and instructors.
+
+
+This
+was wrong. During my internship at CERN I saw many briliant physisist
+stucks by computer related problems. Some of them  .I have realized  that today science and
+astrophysics in particular is flooded by data and therefore penetrated
+by Compture Sciences. It's so essential as mathematics. But
+
+But finally I realized
+
+
+It seems that scienceist are disapointed from commercial tools like IDL,
+Mathematica, Matblab, etc.
+
+But the best thing about python (in my opinion) the potencial to 
+
+We as scinentist have it learn fair part of Computer Scinece nad
+Software Engeniiring to be able to focus on our scintific problems.
+
+As a astrophysicist with background in Computer Science (finished CS
+and physics studies, 6 years as senior developer and Oracle
+DBA at Infineon Technologies) I understand the importance of Software
+engineering skills such are version control, TDD approach, etc.
+
+
+
+
+On one side there are many attempts to provide scientists
+
+* 2 ways
+* IDL, Matlab, LabView, Mathematica, etc.
+* Software Engineering
+
+Although first option 
