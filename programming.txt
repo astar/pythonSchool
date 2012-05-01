@@ -1,4 +1,4 @@
 * Degree in Computer Science (C, C++)
 * Six years as Senior Developer at Infineon Technologies (C#, PL/SQL, Oracle, Gupta, Linux)
 * Diploma/bachelor thesis (Data Mining related) (Python) 
-* CERN Summer Student (Fortran, Python)
+* CERN Summer Student (FORTRAN, Python)

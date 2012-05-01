@@ -3,18 +3,18 @@ As an astrophysicist with background in Computer Science (finished CS
 and physics studies, 6 years as senior developer and Oracle DBA at
 Infineon Technologies) I understand the importance of Software
 engineering skills such as version control, OOP, TDD approach, etc. in
-todays scince. In fact informatics has become (in my opinion)
-important as mathematics. Its no longer "just a tool". We as scientist
+today's science. In fact informatics has become (in my opinion)
+important as mathematics. It is no longer "just a tool". We as scientists
 have to devote a lot of effort and try to learn the most from Software
-Engeniring as we could. Scientific software also has to be free if we
+Engineering as we could. Scientific software also has to be free if we
 want to use it in our discoveries. No black box should be
-allowed. Openess also encouradge interdisciplinary cooperation and for
-science its essential ingredient. Python is my language of choose and
-in fact its one of the reason I am interested in computer science
+allowed. Openness also encourages interdisciplinary cooperation and for
+science it is the essential ingredient. Python is my language of choice and
+in fact it is one of the reason I am interested in computer science
 again. Topics of your school perfectly match skills I need and want to
 improve. The most important aspect of this form of education for me is
 the possibility to discuss my experience with other students an
-lectulers.
+lecturers.
 ------------------
 
 not used
