@@ -1,6 +1,26 @@
+----------------
+As an astrophysicist with background in Computer Science (finished CS
+and physics studies, 6 years as senior developer and Oracle DBA at
+Infineon Technologies) I understand the importance of Software
+engineering skills such as version control, OOP, TDD approach, etc. in
+todays scince. In fact informatics has become (in my opinion)
+important as mathematics. Its no longer "just a tool". We as scientist
+have to devote a lot of effort and try to learn the most from Software
+Engeniring as we could. Scientific software also has to be free if we
+want to use it in our discoveries. No black box should be
+allowed. Openess also encouradge interdisciplinary cooperation and for
+science its essential ingredient. Python is my language of choose and
+in fact its one of the reason I am interested in computer science
+again. Topics of your school perfectly match skills I need and want to
+improve. The most important aspect of this form of education for me is
+the possibility to discuss my experience with other students an
+lectulers.
+------------------
+
+not used
 I used to be a computer scientist and I was working as senior
 developer, and database administrator at Infineon Technologies for six
-years. Then I decide to completly change the field and become an
+years. Then I decide to completely change the field and become an
 astrophysicist. I thought I would use computers just as tool and
 programs like IDL, Matlab, Mathematica allow me to focus on my
 scientific goals. During my bachelor/diploma thesis I discovered
@@ -36,11 +56,6 @@ But the best thing about python (in my opinion) the potencial to
 We as scinentist have it learn fair part of Computer Scinece nad
 Software Engeniiring to be able to focus on our scintific problems.
 
-As a astrophysicist with background in Computer Science (finished CS
-and physics studies, 6 years as senior developer and Oracle
-DBA at Infineon Technologies) I understand the importance of Software
-engineering skills such are version control, TDD approach, etc.
-
 
 
 
@@ -51,3 +66,11 @@ On one side there are many attempts to provide scientists
 * Software Engineering
 
 Although first option 
+
+ Science is highly penetrated by computers. We have two options:
+
+1.) Rely on commercionally aviable software as IDL, Matlab, etc.
+2.) Use software e
+
+First approach is very temptative? since We would like to focuse on ours scientific goals rather than software. Software engienering is a science itself and time is limited so it seems difficult to be an expert in 
+Unfortunatelly there are many problems with that. It's long way from meassurement to analysis and no black box solution can hadle everything. I Litterally every science become something-informatics (bio, astro, ...)
